@@ -1,0 +1,10 @@
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\bin\Debug\SerializarJson.exe.config
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\bin\Debug\SerializarJson.exe
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\bin\Debug\SerializarJson.pdb
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\obj\Debug\SerializarJson.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\obj\Debug\SerializarJson.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\obj\Debug\SerializarJson.csproj.CopyComplete
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\obj\Debug\SerializarJson.exe
+C:\Users\Curso\source\repos\SerializarJson\SerializarJson\obj\Debug\SerializarJson.pdb
